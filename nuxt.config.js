@@ -20,6 +20,11 @@ export default {
   css: [
   ],
 
+  // Customize the progress bar color
+  loading: {
+    color: '#39b982',
+  },
+
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
   ],
